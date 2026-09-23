@@ -10,3 +10,5 @@ Welcome to my GitHub repository! Here, I showcase my skills in object oriented p
 - All tools in unison: Some classes are connected while others work for themselves to better grasp different functionalities of programming in Java.
 
 - Case Studies: Real-world inspired projects solving business/management problems.
+
+- Evergrowing number of features: Some additions were removed/shortened/prolonged based on the next assignment requirements. 
