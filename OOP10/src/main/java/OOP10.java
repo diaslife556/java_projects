@@ -49,7 +49,7 @@ public class OOP10 {
         if (r instanceof Radnik radnik) {
             radnik.dodijeliZadatak(listaZadataka.get(rnd.nextInt(listaZadataka.size())));
         }}
-
+        //Ručna dodjela zbog optimizacije ideje programa
         listaProjekt.get(0).dodijeliZadatakProjektu(listaZadataka.get(1));
         listaProjekt.get(0).dodijeliZadatakProjektu(listaZadataka.get(3));
         listaProjekt.get(1).dodijeliZadatakProjektu(listaZadataka.get(1));
